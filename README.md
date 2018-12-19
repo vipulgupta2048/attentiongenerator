@@ -1,5 +1,7 @@
-## Welcome to GitHub Pages
+# Welcome to Attention Generator
 
-You can use the [editor on GitHub](https://github.com/vipulgupta2048/attentiongenerator/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The attention you need, but not the one you easily get from your loved ones. Let's fix that. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Created out of boredom, coffee and a very special request by someone special. 
+
+A light hearted side project for tasting Flask.
